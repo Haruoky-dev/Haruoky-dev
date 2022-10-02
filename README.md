@@ -1,7 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Juan David Corrales</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3> 
-                                                                   
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="40%"/><br> 
+  
+<p><strong>2nd year BCA student. During day, Assisting
+<br>my father at his shop & Coder at night.
+<br><br> Vibing to : 🎧  </strong></p>  
+
 ## <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juan corrales linares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan corrales linares" height="30" width="40" /></a>
