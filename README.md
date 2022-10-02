@@ -6,7 +6,8 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="40%"/><br> 
   
 <p><strong>
-Last year of university. During day,study and suffer & Coder at night.
+Last year of university. During day, study and suffer 
+& Coder at night.
 
 </div>
   
