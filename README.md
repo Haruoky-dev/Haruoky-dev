@@ -3,7 +3,8 @@
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Haruo-dev/Haruo-dev/issues/1#issue-1393601851" width="500" height="320" />
+
                                                                            
 <h3 align="left">Connect with me:</h3>
 <p align="left">
