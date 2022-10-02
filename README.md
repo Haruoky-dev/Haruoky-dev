@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Juan David Corrales</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3> 🇨🇴
+<h3 align="center">A passionate frontend developer from Colombia</h3> 
 
 
 <img align="right" alt="GIF" src="https://github.com/demartini/demartini/blob/master/code.gif" width="500" height="320" />
