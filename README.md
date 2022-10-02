@@ -7,8 +7,9 @@
   
 <p><strong>2nd year BCA student. During day, Assisting
 <br>my father at his shop & Coder at night.
-<br><br> Vibing to : 🎧  </strong></p>  
 
+</div>
+  
 ## <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juan corrales linares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan corrales linares" height="30" width="40" /></a>
@@ -37,4 +38,3 @@
 <h2> Github Stats </h2> 
 <a href="https://github.com/Haruo-dev/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haruo-dev&layout=compact&theme=tokyonight" /></a>
 
-</div>
