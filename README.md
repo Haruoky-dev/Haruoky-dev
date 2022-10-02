@@ -13,8 +13,8 @@ Last year of university. During day, study and suffer
 <img width="15%" align="right" alt="Github Image" src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/kirby.gif?raw=true" /><br>
   
 - <img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/umm.jpg?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **science**,**art** and **mysteries**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+- <img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/cowboy.jpg?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, Animes, Games or anything**. <br>
+- &nbsp;&nbsp;<img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/leona.jpg?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: The unicorn is the national animal of Scotland.<br>
 
   
 ## <h3 align="left">Connect with me:</h3>
