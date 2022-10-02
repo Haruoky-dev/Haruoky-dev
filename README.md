@@ -1,3 +1,4 @@
+<div align="center" width="50">
 
 <h1 align="center">Hi 👋, I'm Juan David Corrales</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3> 
@@ -35,3 +36,5 @@
 
 <h2> Github Stats </h2> 
 <a href="https://github.com/Haruo-dev/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haruo-dev&layout=compact&theme=tokyonight" /></a>
+
+</div>
