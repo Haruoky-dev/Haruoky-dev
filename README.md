@@ -9,15 +9,13 @@
 Last year of university. During day, study and suffer 
 & Coder at night.
 </div>
-
-<img width="15%" align="right" alt="Github Image" src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/kirby.gif?raw=true" /><br>
   
-- <img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/umm.jpg?raw=true" width="25" />&nbsp;&nbsp;&nbsp; I like exploring **science**,**art** and **mysteries**. <br>
-- <img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/cowboy.jpg?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, Animes, Games or anything**. <br>
-- &nbsp;&nbsp;
-  <img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/leona.jpg?raw=true" width="25" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: The unicorn is the national animal of Scotland.<br>
+-<img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/umm.jpg?raw=true" width="25" />&nbsp;&nbsp;&nbsp; I like exploring **science**,**art** and **mysteries**. <br>
+-<img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/cowboy.jpg?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, Animes, Games or anything**. <br>
+-<img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/leona.jpg?raw=true" width="25" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: The unicorn is the national animal of Scotland.<br>
 
-  
+<img width="30%" align="center" alt="Github Image" src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/kirby.gif?raw=true" /><br>
+
 ## <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juan corrales linares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan corrales linares" height="30" width="40" /></a>
