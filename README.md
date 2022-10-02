@@ -14,7 +14,8 @@ Last year of university. During day, study and suffer
   
 - <img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/umm.jpg?raw=true" width="25" />&nbsp;&nbsp;&nbsp; I like exploring **science**,**art** and **mysteries**. <br>
 - <img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/cowboy.jpg?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, Animes, Games or anything**. <br>
-- &nbsp;&nbsp;<img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/leona.jpg?raw=true" width="25" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: The unicorn is the national animal of Scotland.<br>
+- &nbsp;&nbsp;
+  <img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/leona.jpg?raw=true" width="25" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: The unicorn is the national animal of Scotland.<br>
 
   
 ## <h3 align="left">Connect with me:</h3>
