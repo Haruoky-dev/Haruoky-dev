@@ -6,7 +6,7 @@
 
 - 📫 How to reach me saintsaen18@gmail.com
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
                                                                            
 <h3 align="left">Connect with me:</h3>
 <p align="left">
