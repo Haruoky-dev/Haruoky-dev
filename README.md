@@ -37,5 +37,5 @@ Last year of university. During day, study and suffer
 
 
 <h2> Github Stats </h2> 
-<a href="https://github.com/Haruo-dev/github-readme-stats"><img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haruo-dev&layout=compact&theme=tokyonight" /></a>
+<a href="https://github.com/Haruo-dev/github-readme-stats"><img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haruo-dev&layout=compact&theme=tokyonight" /></a>
 
