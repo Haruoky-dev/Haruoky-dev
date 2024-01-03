@@ -10,7 +10,7 @@ Technologist in Data Systematization. During day, study and suffer
 & Coder at night.
 </div>
   
-<img width="15%" align="right" alt="Github Image" src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/kirby.gif?raw=true" /><br>
+<br>
 - <img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/umm.jpg?raw=true" width="25" />&nbsp;&nbsp;&nbsp; I love to explore technologies, data and curious functionalities.<br>
 - <img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/cowboy.jpg?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, Animes, Games or anything**. <br>
 - <img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/leona.jpg?raw=true" width="25" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: The unicorn is the national animal of Scotland.<br>
@@ -42,5 +42,5 @@ Technologist in Data Systematization. During day, study and suffer
 
 
 <h2> Github Stats </h2> 
-<a href="https://github.com/Haruo-dev/github-readme-stats"><img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haruo-dev&layout=compact&theme=tokyonight" /></a>
+<a href="https://github.com/Haruo-dev/github-readme-stats"><img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haruoky-dev-dev&layout=compact&theme=tokyonight" /></a>
 
