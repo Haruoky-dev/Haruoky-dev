@@ -11,7 +11,11 @@ Technologist in Data Systematization. During day, study and suffer
 </div>
   
 <br>
-- <img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/umm.jpg?raw=true" width="25" />&nbsp;&nbsp;&nbsp; I love to explore technologies, data and curious functionalities.<br>
+<ul>
+  <li>
+    <img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/umm.jpg?raw=true" width="25" />&nbsp;&nbsp;&nbsp; I love to explore technologies, data and curious functionalities.
+  </li>
+</ul>
 - <img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/cowboy.jpg?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, Animes, Games or anything**. <br>
 - <img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/leona.jpg?raw=true" width="25" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: The unicorn is the national animal of Scotland.<br>
 
