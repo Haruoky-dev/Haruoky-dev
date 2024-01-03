@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Juan David Corrales</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3> 
 
-<img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/code.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="40%"/><br> 
+<img src="img/Banner GitHub.png" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="40%"/><br> 
   
 <p><strong>
 Technologist in Data Systematization. During day, study and suffer 
