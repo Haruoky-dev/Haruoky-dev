@@ -25,8 +25,8 @@ Technologist in Data Systematization. During day, study and suffer
 
 ## <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-corrales-linares-966681252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-corrales-linares-966681252/" height="30" width="40" /></a>
-<a href="https://discord.gg/8888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8888" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juan corrales linares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan corrales linares" height="30" width="40" /></a>
+<a href="https://discord.gg/haruo8888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="haruo8888" height="30" width="40" /></a>
 </p>
 
 ## <h3 align="left">Currently working with:</h3>
@@ -50,5 +50,8 @@ Technologist in Data Systematization. During day, study and suffer
 
 
 <h2> Github Stats </h2> 
-<a href="https://github.com/Haruo-dev/github-readme-stats"><img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haruoky-dev-dev&layout=compact&theme=tokyonight" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haruoky-dev&show_icons=true&locale=en&layout=compact" alt="haruoky-dev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haruoky-dev&show_icons=true&locale=en" alt="haruoky-dev" /></p>
+
 
