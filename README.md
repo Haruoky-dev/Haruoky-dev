@@ -6,12 +6,12 @@
 <img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/code.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="40%"/><br> 
   
 <p><strong>
-Last year of university. During day, study and suffer 
+Technologist in Data Systematization. During day, study and suffer 
 & Coder at night.
 </div>
   
 <img width="15%" align="right" alt="Github Image" src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/kirby.gif?raw=true" /><br>
-- <img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/umm.jpg?raw=true" width="25" />&nbsp;&nbsp;&nbsp; I like exploring **science**,**art** and **mysteries**. <br>
+- <img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/umm.jpg?raw=true" width="25" />&nbsp;&nbsp;&nbsp; I love to explore technologies, data and curious functionalities.<br>
 - <img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/cowboy.jpg?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, Animes, Games or anything**. <br>
 - <img src="https://github.com/Haruo-dev/Haruo-dev/blob/main/img/leona.jpg?raw=true" width="25" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: The unicorn is the national animal of Scotland.<br>
 
