@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <h1 align="center">Hi 👋, I'm Juan David Corrales</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3> 
+<h3 align="center">A passionate frontend developer</h3> 
 
 <img src="img/Banner_GitHub.png" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="100%"/><br> 
   
